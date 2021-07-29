@@ -22,3 +22,10 @@ Output the sizes of data after each convolutional or maxpooling layers to make s
 
 Main notebook including model training and accuracy calculation.
 
+### Create_csvfile.ipynb
+
+Create a metadata .csv file from existing images. 
+
+Column 1: image name retrieved from the image folder
+
+Column 2: Labels that either 0 or 1 (0 represents 'sea' and 1 represents 'forest' in this project)
