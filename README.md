@@ -10,4 +10,15 @@ The model attained an accuracy of 90% on the testing dataset (train/test ratio: 
 
 Defined a customized dataset used in this project.
 
-###
+### Test_Dataset.ipynb
+
+Test whether the dataset successfully retrived batches of images.
+
+### Test_model_layers.ipynb
+
+Output the sizes of data after each convolutional or maxpooling layers to make sure the sizes passed into the first fully-connected layer is correct.
+
+### mini_project_0728
+
+Main notebook including model training and accuracy calculation.
+
